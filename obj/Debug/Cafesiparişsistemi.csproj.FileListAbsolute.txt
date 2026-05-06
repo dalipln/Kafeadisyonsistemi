@@ -1,0 +1,11 @@
+C:\Users\zz\Desktop\Cafesiparişsistemi\bin\Debug\Cafesiparişsistemi.exe
+C:\Users\zz\Desktop\Cafesiparişsistemi\bin\Debug\Cafesiparişsistemi.exe.config
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.csproj.AssemblyReference.cache
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.Form1.resources
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.Properties.Resources.resources
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.SiparisForm.resources
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.csproj.GenerateResource.cache
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.csproj.CoreCompileInputs.cache
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.exe
+C:\Users\zz\Desktop\Cafesiparişsistemi\obj\Debug\Cafesiparişsistemi.pdb
+C:\Users\zz\Desktop\Cafesiparişsistemi\bin\Debug\Cafesiparişsistemi.pdb
