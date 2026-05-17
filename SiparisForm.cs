@@ -171,6 +171,7 @@ namespace Cafesiparişsistemi
 
 
             lblToplam.Text = "Toplam: 0,00 TL";
+       
         }
 
         private void btnKaydet_Click_1(object sender, EventArgs e)
